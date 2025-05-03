@@ -1,5 +1,5 @@
 import random
-import hangman_art  # This is a separate .py file I made with the art
+import hangman_art  # This is a separate .py file I made with the ascii art
 import words  # This is a separate .py file with a long list of words
 
 words = words.selection
